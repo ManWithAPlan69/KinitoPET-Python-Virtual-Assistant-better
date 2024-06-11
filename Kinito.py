@@ -551,6 +551,21 @@ class FloatingAssistant:
             "Did you know, there are somewhere within the vicinity of two point three billion houses in the world!",
             "Did you know, a typical healthy adult can run about 2 to 3 miles without stopping? That's still not enough to escape me!",
             "Did you know that the average friendship only lasts seventeen years!? That's much less than ours will last. Our friendship will last until the end of time!"
+            "Our brains are made up of about 75% water, which is one of the reasons that dehydration can lead to headaches, weariness, and decreased mental capacity",
+            "Scientific studies suggest that procrastination is less a result of laziness or poor time management, and more likely a result of poor "mood management",
+            "Star quarterback Brett Favre's first career completion in the NFL was to himself for a loss of 7 yards",
+            "The official state question of New Mexico is "Red or green?", which refers to which type of chile sauce you'd like on your food",
+            "Tsutomu Yamaguchi was in Hiroshima for work when the first A-bomb hit, made it home to Nagasaki for the second, and lived to be 93",
+            "Before settling on the Seven Dwarfs we know today, Disney considered Chesty, Tubby, Burpy, Deafy, Hickey, Wheezy, and Awful",
+            "William McKinley was on the $500 bill, Grover Cleveland was on the $1,000, and James Madison was on the $5,000",
+            "12+1 = 11+2, and "twelve plus one" is an anagram of "eleven plus two",
+            "Crayola means "oily chalk." The name combines "craie" (French for "chalk") and "ola" (short for "oleaginous," or "oily")",
+            "There's a basketball court above the Supreme Court. It's known as the Highest Court in the Land",
+            "After OutKast sang “Shake it like a Polaroid picture,” Polaroid released a statement that said, “Shaking or waving can actually damage the image.",
+            "Michigan coach Jim Harbaugh played Screech's cousin on a 1996 episode of Saved by the Bell: The New Class.",
+            "The first webcam watched a coffee pot. It allowed researchers at Cambridge to monitor the coffee situation without leaving their desks.",
+            "Chock Full o' Nuts coffee does not contain nuts. It's named for a chain of nut stores that the founder converted into coffee shops.",
+            "The word "unfriend" appeared in print all the way back in 1659.",
         ]
         fact = random.choice(facts)
         self.speak(fact)
